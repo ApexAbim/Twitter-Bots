@@ -1,20 +1,22 @@
-# Twitter Bots
+# Kathmandu Air Quality Index Twitter Bot
 
+A Twitter bot for Air Quality of Kathmandu Valley. Powered by [Air Visual](https://www.iqair.com/air-pollution-data-api)
+
+Kathmandu AQI bot tweets  the Air Quality Index along with Current Temperature of Kathmandu Valley. It tweets at a six-hour interval. If there is any change either in the API or hosting platform, it will tweet outside of the scheduled times.
 The Twitter Bots that I have created.
-
-1) Kathmandu AQI: https://twitter.com/ktm_aqi
   
-  This bot tweets the Air Quality Index of Kathmandu every 6 hrs.
+# Screenshot
+ 
+ ![](ktm_api.jpg)
   
   
- 2) Quiz Bot: https://twitter.com/quiz__bot [Underconstruction at the moment]
-  
-  This bot tweets quiz questions every two hrs relating to different categories from Arts, Sports, Science, Politics, Geography and others
-  
-# Technologies Used for the bots
- - Node.js
- - Express
- - Heroku
+# Tools Used
+ - [Node.js](https://nodejs.org/en/)
+ - [Express](https://expressjs.com/)
+ - [Heroku](https://www.heroku.com/)
+ - [Twit](https://github.com/ttezel/twit)
+ - [Air Visual API](https://airvisual.com/api/documentation)
+ - [Twitter API](https://developer.twitter.com/en/docs)
   
   
  If you have any feedback, ideas or want to collobrate on any project then tweet me @ApexAbim
