@@ -2,7 +2,7 @@
 
 A Twitter bot for Air Quality of Kathmandu Valley. Powered by [Air Visual](https://www.iqair.com/air-pollution-data-api)
 
-Kathmandu AQI bot tweets  the Air Quality Index along with Current Temperature of Kathmandu Valley. It tweets at a six-hour interval. If there is any change either in the API or hosting platform, it will tweet outside of the scheduled times.
+[Kathmandu AQI bot](https://twitter.com/ktm_aqi) tweets  the Air Quality Index along with Current Temperature of Kathmandu Valley. It tweets at a six-hour interval. If there is any change either in the API or hosting platform, it will tweet outside of the scheduled times.
 The Twitter Bots that I have created.
   
 # Screenshot
