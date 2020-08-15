@@ -19,4 +19,4 @@ The Twitter Bots that I have created.
  - [Twitter API](https://developer.twitter.com/en/docs)
   
   
- If you have any feedback, ideas or want to collobrate on any project then tweet me [@ApexAbim](https://twitter.com/ApexAbim)
+ If you have any feedback, ideas or want to collobrate on any project then you can contact me [@ApexAbim](https://twitter.com/ApexAbim)
